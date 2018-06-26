@@ -1,0 +1,8 @@
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.Business\bin\Debug\netcoreapp2.1\CDBit.BookStore.Business.deps.json
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.Business\bin\Debug\netcoreapp2.1\CDBit.BookStore.Business.dll
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.Business\bin\Debug\netcoreapp2.1\CDBit.BookStore.Business.pdb
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.Business\obj\Debug\netcoreapp2.1\CDBit.BookStore.Business.csproj.CoreCompileInputs.cache
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.Business\obj\Debug\netcoreapp2.1\CDBit.BookStore.Business.AssemblyInfoInputs.cache
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.Business\obj\Debug\netcoreapp2.1\CDBit.BookStore.Business.AssemblyInfo.cs
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.Business\obj\Debug\netcoreapp2.1\CDBit.BookStore.Business.dll
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.Business\obj\Debug\netcoreapp2.1\CDBit.BookStore.Business.pdb

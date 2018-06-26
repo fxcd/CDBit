@@ -1,0 +1,14 @@
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.MvcWebUI\bin\Debug\netcoreapp2.1\CDBit.BookStore.MvcWebUI.deps.json
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.MvcWebUI\bin\Debug\netcoreapp2.1\CDBit.BookStore.MvcWebUI.runtimeconfig.json
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.MvcWebUI\bin\Debug\netcoreapp2.1\CDBit.BookStore.MvcWebUI.runtimeconfig.dev.json
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.MvcWebUI\bin\Debug\netcoreapp2.1\CDBit.BookStore.MvcWebUI.dll
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.MvcWebUI\bin\Debug\netcoreapp2.1\CDBit.BookStore.MvcWebUI.pdb
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.MvcWebUI\obj\Debug\netcoreapp2.1\CDBit.BookStore.MvcWebUI.csprojAssemblyReference.cache
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.MvcWebUI\obj\Debug\netcoreapp2.1\CDBit.BookStore.MvcWebUI.csproj.CoreCompileInputs.cache
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.MvcWebUI\obj\Debug\netcoreapp2.1\CDBit.BookStore.MvcWebUI.RazorAssemblyInfo.cache
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.MvcWebUI\obj\Debug\netcoreapp2.1\CDBit.BookStore.MvcWebUI.RazorAssemblyInfo.cs
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.MvcWebUI\obj\Debug\netcoreapp2.1\CDBit.BookStore.MvcWebUI.AssemblyInfoInputs.cache
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.MvcWebUI\obj\Debug\netcoreapp2.1\CDBit.BookStore.MvcWebUI.AssemblyInfo.cs
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.MvcWebUI\obj\Debug\netcoreapp2.1\CDBit.BookStore.MvcWebUI.RazorTargetAssemblyInfo.cache
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.MvcWebUI\obj\Debug\netcoreapp2.1\CDBit.BookStore.MvcWebUI.dll
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.MvcWebUI\obj\Debug\netcoreapp2.1\CDBit.BookStore.MvcWebUI.pdb

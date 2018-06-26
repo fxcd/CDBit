@@ -1,0 +1,9 @@
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.Core\bin\Debug\netcoreapp2.1\CDBit.Core.deps.json
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.Core\bin\Debug\netcoreapp2.1\CDBit.Core.dll
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.Core\bin\Debug\netcoreapp2.1\CDBit.Core.pdb
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.Core\obj\Debug\netcoreapp2.1\CDBit.Core.csprojAssemblyReference.cache
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.Core\obj\Debug\netcoreapp2.1\CDBit.Core.csproj.CoreCompileInputs.cache
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.Core\obj\Debug\netcoreapp2.1\CDBit.Core.AssemblyInfoInputs.cache
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.Core\obj\Debug\netcoreapp2.1\CDBit.Core.AssemblyInfo.cs
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.Core\obj\Debug\netcoreapp2.1\CDBit.Core.dll
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.Core\obj\Debug\netcoreapp2.1\CDBit.Core.pdb

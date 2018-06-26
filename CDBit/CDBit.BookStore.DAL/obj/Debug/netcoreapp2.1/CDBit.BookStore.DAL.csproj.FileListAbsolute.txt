@@ -1,0 +1,8 @@
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.DAL\bin\Debug\netcoreapp2.1\CDBit.BookStore.DAL.deps.json
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.DAL\bin\Debug\netcoreapp2.1\CDBit.BookStore.DAL.dll
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.DAL\bin\Debug\netcoreapp2.1\CDBit.BookStore.DAL.pdb
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.DAL\obj\Debug\netcoreapp2.1\CDBit.BookStore.DAL.csproj.CoreCompileInputs.cache
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.DAL\obj\Debug\netcoreapp2.1\CDBit.BookStore.DAL.AssemblyInfoInputs.cache
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.DAL\obj\Debug\netcoreapp2.1\CDBit.BookStore.DAL.AssemblyInfo.cs
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.DAL\obj\Debug\netcoreapp2.1\CDBit.BookStore.DAL.dll
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.DAL\obj\Debug\netcoreapp2.1\CDBit.BookStore.DAL.pdb

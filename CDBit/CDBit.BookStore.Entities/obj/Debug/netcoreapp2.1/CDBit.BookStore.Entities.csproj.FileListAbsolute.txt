@@ -1,0 +1,9 @@
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.Entities\bin\Debug\netcoreapp2.1\CDBit.BookStore.Entities.deps.json
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.Entities\bin\Debug\netcoreapp2.1\CDBit.BookStore.Entities.dll
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.Entities\bin\Debug\netcoreapp2.1\CDBit.BookStore.Entities.pdb
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.Entities\obj\Debug\netcoreapp2.1\CDBit.BookStore.Entities.csprojAssemblyReference.cache
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.Entities\obj\Debug\netcoreapp2.1\CDBit.BookStore.Entities.csproj.CoreCompileInputs.cache
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.Entities\obj\Debug\netcoreapp2.1\CDBit.BookStore.Entities.AssemblyInfoInputs.cache
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.Entities\obj\Debug\netcoreapp2.1\CDBit.BookStore.Entities.AssemblyInfo.cs
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.Entities\obj\Debug\netcoreapp2.1\CDBit.BookStore.Entities.dll
+C:\Users\cfx\Desktop\BitProje\CDBit\CDBit.BookStore.Entities\obj\Debug\netcoreapp2.1\CDBit.BookStore.Entities.pdb
